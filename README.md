@@ -1,3 +1,3 @@
 # hello-world
 мои идеи
-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
+atom://teletype/portal/19824035-c08e-4a10-b450-bbf7b5204071
